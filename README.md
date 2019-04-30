@@ -14,3 +14,36 @@ World Health Organization. (2018). Suicide prevention. Retrieved from http://www
 ## Inspiration
 
 Suicide Prevention.
+
+## Observations
+
+There are 27820 observations. My dataset included 101 countries with data from years 1985 to 2016. 
+
+### Correlation between GDP per capita and number of suicides per 100k population.
+
+Most of the data falls in a large blob between 0 to 60000 (GDP per capita) on y axis, and between 0 to 50 (Number of suicides per 100k population) on x axis.
+
+There is slight trend showing that countries with lower GDP have higher numbers of suicides. However, there are a lot of outliers.
+
+### Countries with the highest number of suicides 
+
+Russian Federation is the leading county for its number of suicides.
+In this case I used the total number suicides without considering the number of population in each country. 
+
+Now I would like to look the number of suicides per 100k population.
+
+According to the numbers of suicides per 100k population, the country with the highest number of suicides is Lithuania and Russian Federation ia is on the third place after Sri Lanka.
+
+7 out of 10 countries with highest suicide rate per 100k population in this list were part of USSR.
+
+10 countries with lowest suicide rate has the tropical climate. 
+
+### Age
+The age group between 35-54 years has the highest number of suicides.
+
+Highest spike of suicides was in a year 2000, then slowly decreased by 2015.
+
+The age group between 5-14 has the lowest number of suicides.
+
+
+
